@@ -5,6 +5,6 @@ I enjoy web development because it is an ongoing learning experience for me.
 
 If you are interested in learning, collaborating, or hiring, please contact me at:
 Email : mugiziglory@gmail.com
-GitHub: https://github.com/glorymugizi
+
 
 
